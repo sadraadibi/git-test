@@ -1,10 +1,10 @@
 # Project Title
 
-One Paragraph of project description goes here
+A project to know github ;D
 
 ## Introduction
 
-Explain what your code is about and how does it work.
+its not ready yet.
 
 
 ### Code Box 
@@ -12,14 +12,14 @@ Explain what your code is about and how does it work.
 Explain what this part of code is for.
 
 ```
-Paste Some Code Here! like waht?
+its not ready yet.
 ```
 
- 
+
 
 ## Authors
 
-* Sadra Adibi- [59312119](https://github.com/sadraadibi)
+ Sadra Adibi- [59312119](httpsgithub.comsadraadibi)
 
 ## License
 
@@ -27,6 +27,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Bullet Point
 
-* Bullet 1
-* Bullet 2
-* etc
+ Bullet 1
+ Bullet 2
+ etc
